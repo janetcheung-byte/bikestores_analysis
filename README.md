@@ -9,9 +9,8 @@ Analysis bike stores sales analysis from 2016-2018. Interactive Tableau dashboar
 ---
 ### Similar Excel Dashboard
 
-In addition to the Tableau dashboard, I have also created a similar dashboard in Excel that visualizes the key business metrics and segmentation. This Excel dashboard offers an alternative tool for data analysis and reporting.
-
-[Download Excel Dashboard](https://github.com/janetcheung-byte/bikestores_analysis/blob/main/BikeStores.xlsx)
+In addition to the Tableau dashboard, I have also created a similar dashboard in Excel that visualizes the key business metrics and segmentation. This Excel dashboard offers an alternative tool for data analysis and reporting. ->
+[Excel Dashboard](https://1drv.ms/x/c/8218cce8877c692b/Ea32kyrIyPBEhVvRl5tuR-sBpEF4LRg7EisjcbH_2-9z9g?e=Yw5Xnc)
 
 ---
 
