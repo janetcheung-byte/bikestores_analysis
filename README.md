@@ -1,15 +1,11 @@
 # Bike Stores Sales Analysis (2016-2018)
 
-### 
-Conducted analysis in SQL to surface insights on sales trends and North Star metrics for a self-created BikeStores dataset containing 4,723 records. Worked independently for two weeks to clean and analyze data in SQL and built performance dashboards in Excel and Tableau to visualize trends related to Sales Performance Over Time, Geographic Analysis, Product and Brand Analysis, and Customer and Sales Rep Performance. Surfaced insights and provided recommendations geared towards sales and marketing teams.
-
----
 Analysis bike stores sales analysis from 2016-2018. Interactive Tableau dashboard can be found here ->[View Dashboard](https://public.tableau.com/views/bikestoressalesanalysisdashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 ### Similar Excel Dashboard
 
-In addition to the Tableau dashboard, I have also created a similar dashboard in Excel that visualizes the key business metrics and segmentation. This Excel dashboard offers an alternative tool for data analysis and reporting. ->
+In addition to the Tableau dashboard, I have also created a similar dashboard in Excel that visualizes the key business metrics and segmentation. ->
 [Excel Dashboard](https://1drv.ms/x/c/8218cce8877c692b/Ea32kyrIyPBEhVvRl5tuR-sBpEF4LRg7EisjcbH_2-9z9g?e=Yw5Xnc)
 
 ---
